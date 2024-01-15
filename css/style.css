@@ -6,7 +6,7 @@
     width: 1500px;
     height: 800px;
     background-color:green;
-    background-image: url('https://img.goodfon.ru/wallpaper/big/0/5b/pole-zelen-trava-dom-derevya.jpg'), url('/img/green-png-44873.png'), url('/img/lamp-png-34914.png'), url('/img/the-hedgehog-png-image-hedgehog-png-transparent-png_303714-6278.avif'), url('/img/58eb07b830eab15b56162788.png');
+    background-image: url('/img/pole-zelen-trava-dom-derevya.jpg'), url('/img/green-png-44873.png'), url('/img/lamp-png-34914.png'), url('/img/the-hedgehog-png-image-hedgehog-png-transparent-png_303714-6278.avif'), url('/img/58eb07b830eab15b56162788.png');
     background-size:800px 400px, 500px, 5%, 5%, 5% ;
     background-position: center, bottom, top, left, right;
     background-repeat: no-repeat , repeat-x, repeat-x, repeat-y,repeat-y;
